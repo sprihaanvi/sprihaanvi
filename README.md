@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a Final year Computer science student<br>Curiosity is something that drives me forward<br>I love to explore and learn about different technologies.<br>I have built projects in Web Development and Deep Learning<br>Looking to collaborate in different fields and learn about it.
+🌱Final year Computer Science student driven by curiosity and a passion for exploring new technologies<br>🤩I've built exciting projects in Web Development and Deep Learning.<br>💟Always eager to collaborate and learn from different fields<br>🚀Let's build something amazing together! 
 
 
 ## 🌐 Socials:
